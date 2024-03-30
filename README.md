@@ -36,8 +36,8 @@ CLIENT_BASE_URL=
 ## Build the app
 `npm run build`
 
-##Start the app
+## Start the app
 `npm start`
 
-##Contributing
+## Contributing
 • Contributions are welcome! Feel free to submit pull requests or open issues for any bugs or feature requests.
