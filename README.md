@@ -1,5 +1,5 @@
 # CodeHarbor
-This project is a Github-like application built on the MERN (MongoDB, Express.js, React.js, Node.js) stack, enhanced with TailwindCSS for styling and incorporating Github API for fetching user profiles and repositories. The core feature of this application is the implementation of social authentication using Passport.js, specifically tailored for Github authentication.
+This project is a Github-like repo, project and username consisting application with numerous features built on the MERN (MongoDB, Express.js, React.js, Node.js) stack, enhanced with TailwindCSS for styling and incorporating Github API for fetching user profiles and repositories. The core feature of this application is the implementation of social authentication using Passport.js, specifically tailored for Github authentication.
 
 ## Features
 • Authentication & Authorization with Passport.js (Github Auth): Users can sign in/sign up using their Github accounts, providing a seamless and secure authentication process.
